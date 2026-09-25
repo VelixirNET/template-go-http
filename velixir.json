@@ -1,0 +1,15 @@
+{
+  "name": "Go",
+  "tagline": "net/http on Go 1.23, standard library only.",
+  "description": "A single main.go on the standard library, compiled server-side into a small container. No module dependencies to resolve, so the build is about as fast as a Go build gets.",
+  "language": "Go",
+  "runtimeVersion": "1.23",
+  "accent": "#00ADD8",
+  "tags": [
+    "No dependencies",
+    "Compiled"
+  ],
+  "topics": [
+    "go"
+  ]
+}
